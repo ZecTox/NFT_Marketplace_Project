@@ -1,3 +1,8 @@
+<img src="./asset/img1.png></img>
+<img src="./asset/img2.png></img>
+
+
+
 # NFT_Marketplace_Project
 
 <h2> Intro </h2>

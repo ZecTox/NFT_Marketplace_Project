@@ -1,9 +1,7 @@
-<img src="./asset/img1.png></img>
-<img src="./asset/img2.png></img>
-
-
-
-# NFT_Marketplace_Project
+# 👀 Preview 👀  
+<img src="./asset/img2.png" height=300 width=500></img>
+<img src="./asset/img1.png" height=300 width=500></img>
+# 🖼️ NFT_Marketplace_Project 🎨
 
 <h2> Intro </h2>
 This would be a NFT Marketplace project made by Me by doing the course from MetaSchool.so about "Launch your own epic Marketplace".
@@ -22,3 +20,9 @@ This would be a NFT Marketplace project made by Me by doing the course from Meta
 <h4>10. Connecting metamask to react frontend</h4>
 <h4>11. Calling Solidity Smart Contract from react</h4>
 <h4>12. Withdrawing Money from a Smart Contract</h4>
+
+😁 Steps if you want to clone the Repository 😁
+<h3> To install the dependencies clone the project and then install it </h3>
+<h4>1. npm init </h4>
+
+# Now Enjoy with the NFT_MARKETPLACE PROJECT 😁

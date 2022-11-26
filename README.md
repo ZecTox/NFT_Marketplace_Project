@@ -24,7 +24,7 @@ This would be a NFT Marketplace project made by Me by doing the course from Meta
 😁 Steps if you want to clone the Repository 😁
 <h3> To install the dependencies clone the project and then install it </h3>
 <h4>1. npm init </h4>
-<h4>2. create a .env file and store the API key from ALCHEMY and Privste key from the metamask </h4>
+<h4>2. create a .env file and store the API key from ALCHEMY and Private key from the metamask </h4>
 <h4> API_URL = PASTE-YOUR-ALCHEMY-HTTPS-URL <br>
 PRIVATE_KEY = PASTE-YOUR-PRIVATE-KEY-FROM-METAMASK-WALLET <br>
 API_KEY = PASTE-IT-FROM-ALCHEMY-ACCOUNT <br></h4>
